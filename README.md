@@ -1,6 +1,11 @@
 # bouncingball
 Using the if statement to create a [bouncing ball](https://benjaminfox1.github.io/bouncingball/)
 
+<details><summary>Code Below</summary>
+<p>
+  
+
+```Javascript
 // Using the if statement to create a bouncing ball that changes
 // colour
 
@@ -53,3 +58,6 @@ function draw() {
   }
   
 }
+```
+</p>
+</details>
